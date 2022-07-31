@@ -37,13 +37,15 @@ experience:
         * Deploying
 
   - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company: Chinasoft International
+    company_url: 'https://www.chinasofti.com/'
+    company_logo: Chinasoft
+    location: 
+    date_start: '2022-06-30'
+    date_end: '2022-07-16'
+    description: Front-end and back-end development with Java;
+    HTML basics, JavaScript basics, CSS3 selectors, styles and layouts.
+    Familiar with the debugging and development of frameworks such as Mybatis, Sping, SpringMVC, etc.
 
 design:
   columns: '2'
