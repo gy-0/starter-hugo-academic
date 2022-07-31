@@ -11,9 +11,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: telegram
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://t.me/gao_yuan
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
