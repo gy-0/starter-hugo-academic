@@ -6,7 +6,9 @@
   publishOrigin = "config"
 
 [build.environment]
-  HUGO_VERSION = "0.97.3"
+  npm install
+  npm run make:prepare
+  HUGO_VERSION= "0.97.3" npm run serve
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
