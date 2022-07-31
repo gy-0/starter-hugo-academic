@@ -6,7 +6,7 @@ title: Yuan Gao
 superuser: true
 
 # Role/position/tagline
-role: Student of Computer Science
+role: Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -58,7 +58,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'one@hrbeu.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
