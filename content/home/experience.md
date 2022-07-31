@@ -43,9 +43,10 @@ experience:
     location: 
     date_start: '2022-06-30'
     date_end: '2022-07-16'
-    description: Front-end and back-end development with Java;
-    HTML basics, JavaScript basics, CSS3 selectors, styles and layouts.
-    Familiar with the debugging and development of frameworks such as Mybatis, Sping, SpringMVC, etc.
+    description: 
+      Front-end and back-end development with Java;
+      HTML basics, JavaScript basics, CSS3 selectors, styles and layouts.
+      Familiar with the debugging and development of frameworks such as Mybatis, Sping, SpringMVC, etc.
 
 design:
   columns: '2'
